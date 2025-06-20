@@ -21,13 +21,13 @@ It intercepts the game's audio function calls, especially those for volume contr
 
 ## Installation | 安装方法
 
-1.  Download the `dsound.dll` file from the [Releases](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases) page.
+1.  Download the `dsound.dll` file from the [Releases](https://github.com/MyuriRose/dswrapper-mm/releases) page.
 
 2.  Copy the `dsound.dll` file into the root directory of your *Magic & Mayhem* game (the same folder that contains the game's `.exe` file).
 
 3.  Start the game. The fix is applied automatically.
 
-4.  从本项目的 [Releases](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases) 页面下载 `dsound.dll` 文件。
+4.  从本项目的 [Releases](https://github.com/MyuriRose/dswrapper-mm/releases) 页面下载 `dsound.dll` 文件。
 
 5.  将下载好的 `dsound.dll` 文件复制到《魔法师传奇》的游戏根目录下（即游戏主程序 `.exe` 所在的那个文件夹）。
 
