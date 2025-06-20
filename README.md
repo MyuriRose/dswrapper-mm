@@ -26,6 +26,8 @@ It intercepts the game's audio function calls, especially those for volume contr
 2.  Copy the `dsound.dll` file into the root directory of your *Magic & Mayhem* game (the same folder that contains the game's `.exe` file).
 
 3.  Start the game. The fix is applied automatically.
+   
+---
 
 1.  从本项目的 [Releases](https://github.com/MyuriRose/dswrapper-mm/releases) 页面下载 `dsound.dll` 文件。
 
