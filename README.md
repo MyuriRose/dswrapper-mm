@@ -27,8 +27,8 @@ It intercepts the game's audio function calls, especially those for volume contr
 
 3.  Start the game. The fix is applied automatically.
 
-4.  从本项目的 [Releases](https://github.com/MyuriRose/dswrapper-mm/releases) 页面下载 `dsound.dll` 文件。
+1.  从本项目的 [Releases](https://github.com/MyuriRose/dswrapper-mm/releases) 页面下载 `dsound.dll` 文件。
 
-5.  将下载好的 `dsound.dll` 文件复制到《魔法师传奇》的游戏根目录下（即游戏主程序 `.exe` 所在的那个文件夹）。
+2.  将下载好的 `dsound.dll` 文件复制到《魔法师传奇》的游戏根目录下（即游戏主程序 `.exe` 所在的那个文件夹）。
 
-6.  重新启动游戏即可，本补丁会自动生效。
+3.  重新启动游戏即可，本补丁会自动生效。
